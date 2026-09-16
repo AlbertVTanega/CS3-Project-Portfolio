@@ -6,16 +6,16 @@
 
 ## 1. Project Information
 
-| Information                | Details |
-| -------------------------- | ------- |
-| **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
-| **PSHS-DRC Area/Location** |         |
+| Information                | Details                          |
+| -------------------------- | ---------------------------------|
+| **Proposed Project Title** |                                  |
+| **Team Members**           | 1. Albert Angel V. Tañega        |
+|                            | 2. Jensine Arissa O. Arabis      |
+|                            | 3. Princess Uckiesha Lynn G. Imas|
+|                            | 4. Maxene Alfrea L. Condeza      |
+|                            | 5. Dane Lezeth J. Bonifacio      |
+|                            | 6. Traize Alexi C. Perin         |
+| **PSHS-DRC Area/Location** | Classroom                        |
 
 ---
 
