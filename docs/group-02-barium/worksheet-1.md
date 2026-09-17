@@ -23,13 +23,13 @@
 
 ### 1. What process did you observe?
 
-> *Write your answer here.*
+> *The process of assigning and checking classroom cleaning duties.*
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> *The purpose is to keep the classroom clean and make sure students complete their assigned cleaning tasks.*
 
 <br>
 
@@ -39,18 +39,18 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1.Class Officer|Assigns and checks cleaning duties  |
+| 2.Student      |Completes the assigned cleaning task|
 
 ### 4. What are the steps in the current process?
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | Cleaning tasks are assigned to students| Class Officer|
+| 2    | Students check their assigned tasks    | Student      |
+| 3    | Students clean their assigned areas    | Student      |
+| 4    | The class officer checks the classroom | Class Officer|
+| 5    | Completed tasks are recorded           | Class Officer|
 
 ---
 
@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> *Some student may forget their assigned tasks. It can also be difficult to keep track of which tasks are already completed.*
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> *The assignment and recording of cleaning tasks could be improved by using an automated digital system.*
 
 <br>
 
@@ -74,7 +74,7 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+> *The system would assign cleaning tasks to students and keep track of wether each task is completed.*
 
 <br>
 
@@ -82,8 +82,8 @@
 
 | User/Role | Possible Use |
 | --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+| 1.Student      | View their assigned cleaning task    |
+| 2.Class Officer|Add assignments and update task status|
 
 ### 3. What are the essential features?
 
