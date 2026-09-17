@@ -79,7 +79,7 @@
 ### 1. What would your proposed system do?
 
 > *The system would assign cleaning tasks to students and
-> keep track of wether each task is completed.*
+> keep track of whether each task is completed.*
 
 <br>
 
@@ -96,7 +96,6 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.Add cleaning assignment|Assigns cleaning task to a student  |
-| 2.View assignments       |Enables the student or the class officer to view what are the cleaning tasks for today and
-                           if already assigned, will show the student assigned for the day|
-| 3.Update task status     |Mark tasks as completed or completed|
+| 1.Add cleaning assignment|Assigns cleaning task to a student                                                                                                   |
+| 2.View assignments       |Enables the student or the class officer to view what are the cleaning tasks for today and will show the student assigned for the day|
+| 3.Update task status     |Mark tasks as completed or completed                                                                                                 |
