@@ -8,7 +8,7 @@
 
 | Information                | Details                          |
 | -------------------------- | ---------------------------------|
-| **Proposed Project Title** |                                  |
+| **Proposed Project Title** | Cleaning Assignment System       |
 | **Team Members**           | 1. Albert Angel V. Tañega        |
 |                            | 2. Jensine Arissa O. Arabis      |
 |                            | 3. Princess Uckiesha Lynn G. Imas|
