@@ -23,13 +23,15 @@
 
 ### 1. What process did you observe?
 
-> *The process of assigning and checking classroom cleaning duties.*
+> *The process of assigning and
+> checking classroom cleaning duties.*
 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> *The purpose is to keep the classroom clean and make sure students complete their assigned cleaning tasks.*
+> *The purpose is to keep the classroom clean and
+> make sure students complete their assigned cleaning tasks.*
 
 <br>
 
@@ -58,13 +60,15 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Some student may forget their assigned tasks. It can also be difficult to keep track of which tasks are already completed.*
+> *Some student may forget their assigned tasks.
+> It can also be difficult to keep track of which tasks are already completed.*
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *The assignment and recording of cleaning tasks could be improved by using an automated digital system.*
+> *The assignment and recording of cleaning tasks,
+>  could be improved by using an automated digital system.*
 
 <br>
 
@@ -74,7 +78,8 @@
 
 ### 1. What would your proposed system do?
 
-> *The system would assign cleaning tasks to students and keep track of wether each task is completed.*
+> *The system would assign cleaning tasks to students and
+> keep track of wether each task is completed.*
 
 <br>
 
@@ -91,6 +96,7 @@
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1.Add cleaning assignment|Assigns cleaning task to a student  |
+| 2.View assignments       |Enables the student or the class officer to view what are the cleaning tasks for today and
+                           if already assigned, will show the student assigned for the day|
+| 3.Update task status     |Mark tasks as completed or completed|
