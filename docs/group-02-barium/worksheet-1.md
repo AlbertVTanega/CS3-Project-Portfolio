@@ -24,7 +24,7 @@
 ### 1. What process did you observe?
 
 > *The process of assigning and
-> checking classroom cleaning duties.*
+> checking cleaning classroom duties.*
 
 <br>
 
