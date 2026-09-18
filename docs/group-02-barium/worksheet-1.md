@@ -42,7 +42,7 @@
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
 | 1.Class Officer|Assigns and checks cleaning duties  |
-| 2.Student      |Completes the assigned cleaning task|
+| 2.Student      |Completes the assigned cleaning tassk|
 
 ### 4. What are the steps in the current process?
 
