@@ -1,3 +1,4 @@
+
 # WORKSHEET 2
 ## Identify Objects, Classes, and Relationships
 
@@ -81,7 +82,7 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** 
 
 **Purpose:**  
 __________________________________________________
@@ -108,34 +109,76 @@ __________________________________________________
 
 ### Class No. 2
 
-**Class Name:** __________________________________
+**Class Name:** Student (parent class)
 
 **Purpose:**  
-__________________________________________________
+Base class that stores basic student information, attendance, and cleaning status.
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|name|Name of the student.|
+|section|Section of the student.|
+|status|Status if present, absent, cleaned, or still working.|
+
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|UpdateStatus()|Marks if they cleaned or missed duty, and records their attendance.|
 
 ---
 
-**Additional Classes:** Add another copy of the Class Analysis section for each additional class you identify.
+### Class No. 3
 
-**Reminder:** Keep your project simple. Avoid creating unnecessary classes.
+**Class Name:** Cleaner(Student)
+
+**Purpose:**  
+Regular student assigned to perform cleaning duties and updates their tracking/cleaning sheets.
+
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+|(Inherited)|Inherits name, section, and status from Student.|
+|assignedTask|Their assigned task or duty.|
+
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+|(Inherited)|Uses updateStatus() from Student.|
+|rateSelf()|Cleaners can evaluate their own work.|
+
+
+---
+
+### Class No. 4
+
+**Class Name:** Leader(Student)
+
+**Purpose:**  
+A student leader who oversees the group, evaluates the members' work, and provides feedback.
+#### Attributes
+
+| Attribute | Description |
+|---|---|
+|(Inherited)|Inherits name, section, and status from Student.|
+|assignedTask|Their assigned task or duty.|
+
+
+#### Methods
+
+| Method Name | What does it do? |
+|---|---|
+|(Inherited)|Uses updateStatus() from Student.|
+|rateQuality()|Scores the cleanliness of a member's job. (out of 10)|
+|rateTime()|Scores efficiency and time spent cleaning. (out of 10)|
+|giveFeedback()|Write comments for group members.|
+
 
 ---
 
