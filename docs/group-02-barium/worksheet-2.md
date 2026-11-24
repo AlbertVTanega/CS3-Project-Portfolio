@@ -19,12 +19,7 @@ If you were going to create a program for this process, what things would the pr
 | 2  |Student|A student can be a student cleaner (update status, encode if absent/present) student leader (rate members, feedback)| 
 | 3 |Cleanliness Sheet |Helps adviser make groups and give feedback|
 | 4 |Tracker System|helps student leader rate/give feedback|
-| 5 | | |
-| 6 | | |
-| 7 | | |
-| 8 | | |
-| 9 | | |
-| 10 | | |
+
 
 ### Object Evaluation
 
