@@ -15,8 +15,8 @@ Identify the important people, things, records, transactions, or concepts that y
 If you were going to create a program for this process, what things would the program need to represent?
 
 | No. | Object | Description |
-| 1 |Adviser/Teacher | Assign roles, assign group, rate (overall)
-| 2 |Student| |
+| 1 |Adviser/Teacher | Assign roles, assign group, rate (overall)|
+| 2 |Student| | 
 | 3 |Cleanliness Sheet | |
 | 4 |Tracker System| |
 | 5 | | |
