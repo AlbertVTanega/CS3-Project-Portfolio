@@ -188,9 +188,9 @@ Determine how your identified classes are related to one another.
 
 | No. | Class 1 | Relationship | Class 2 | Why are they related? |
 |:---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | Teacher | association | cleaner leader | teacher selects leader and assigns them to cleaner leader |
+| 2 | Teacher | association | cleaner member | teacher selects member into groups and gives ratings |
+| 3 | Cleaner leader | association | cleaner member | leader rates work quality and time for each member |
 | 4 | | | | |
 | 5 | | | | |
 | 6 | | | | |
