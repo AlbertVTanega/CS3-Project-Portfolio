@@ -68,11 +68,11 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Teacher | Represents the class adviser who oversees overall cleanliness reports and student compliance. |
+| 2 | Student | The parent class representing any student in the class, holding shared info and attendance/cleaning status. |
+| 3 | Cleaner | A child class of Student representing regular cleaners who perform duties and rate their own work. |
+| 4 | Leader | A child class of Student representing the class officer/leader who assigns tasks, rates quality/time, and gives feedback. |
+| 5 | CleaningTask | Represents an individual cleaning assignment, including the area to clean, completion status, and ratings. |
 
 ---
 
