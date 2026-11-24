@@ -15,10 +15,11 @@ Identify the important people, things, records, transactions, or concepts that y
 If you were going to create a program for this process, what things would the program need to represent?
 
 | No.| Object | Description |
-| 1  |Adviser/Teacher | Assign roles, assign group, rate (overall)|
+|:---:|---|---|
+| 1  |Adviser/Teacher|Assign roles, assign group, rate (overall)|
 | 2  |Student|A student can be a student cleaner (update status, encode if absent/present) student leader (rate members, feedback)| 
-| 3 |Cleanliness Sheet |Helps adviser make groups and give feedback|
-| 4 |Tracker System|helps student leader rate/give feedback|
+| 3 |Cleanliness Sheet|Helps adviser make groups and give feedback|
+| 4 |Tracker System|Helps student leader rate/give feedback|
 
 
 ### Object Evaluation
