@@ -49,14 +49,14 @@ Determine how your identified objects interact with one another.
 
 | No. | Object 1 | Interacts | Object 2 |
 |:---:|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
+| 1 | Leader | assigns | Cleaning Task |
+| 2 | Cleaner | views | Cleaning Schedule |
+| 3 | Cleaner | cleans | Classroom |
+| 4 | Cleaner | updates | Attendance |
+| 5 | Cleaner | Cleaner | Evaluation |
+| 6 | Leader | inspects | Classroom |
+| 7 | Leader | records | Evaluation / Feedback |
+| 8 | Teacher | monitors | Attendance |
 
 ---
 
