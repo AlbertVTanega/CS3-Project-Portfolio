@@ -82,28 +82,28 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** 
+**Class Name: Teacher** 
 
-**Purpose:**  
+**Purpose: Supervises the classroom cleaning system, reviews cleaning records, and monitors student participation and feedback.**  
 __________________________________________________
 
 #### Attributes
 
 | Attribute | Description |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|teacherID|Unique identifier for the teacher.|
+|name|Full name of the teacher.|
+|advisorySection |The class section supervised by the teacher.|
+|remarks|General notes or approval comments on classroom cleanliness.|
 
 #### Methods
 
 | Method Name | What does it do? |
 |---|---|
-| | |
-| | |
-| | |
-| | |
+|viewSchedule()|Displays the daily or weekly cleaning assignments for the section.|
+|viewRecords()|Checks student attendance, task completion statuses, and leader ratings.|
+|addRemarks()|Records overall feedback or disciplinary notes regarding classroom cleanliness.|
+|approveReport()|Verifies and approves the weekly or daily cleaning log.|
 
 ---
 
